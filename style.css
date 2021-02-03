@@ -1,0 +1,31 @@
+/*!
+  Theme Name: Impressum
+  Author: Niclas Stepniak
+  Description: This is a constantly changing theme. It will be used for my own representation.
+  Version: 1.0.0
+  Tested up to: ??
+  Requires PHP: 5.6
+  License: ??
+  Text Domain: Impressum
+  Tags: ??
+
+
+*/
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Document Rules
+	-
+# ???
+	- ???
+## Layouts
+# Components
+	- Navigation
+--------------------------------------------------------------*/
+
+/* Document
+	 ========================================================================== */
+
+* {
+  box-sizing: border-box;
+}
